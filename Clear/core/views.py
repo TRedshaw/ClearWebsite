@@ -8,3 +8,4 @@ def index(request):
             "title": "Django example",
         },
     )
+# hi
